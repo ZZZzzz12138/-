@@ -1,0 +1,33 @@
+# Python 3.8.x
+
+# 数值 & 科学计算
+numpy==1.24.3
+sympy==1.13.3
+
+# 深度学习（CPU）
+torch==2.4.1
+torchvision==0.20.0
+torchaudio==2.4.1
+
+# 计算机视觉 & 图像处理
+opencv-python==4.12.0.88
+Pillow==10.4.0
+
+# GUI 桌面程序
+PyQt5==5.15.10
+PyQt5-sip==12.13.0
+
+# 配置 & 序列化
+PyYAML==6.0.2
+
+# 串口通信
+pyserial==3.5
+
+# 工具 & 通用依赖
+requests==2.32.3
+networkx==3.1
+filelock==3.16.1
+fsspec==2025.3.0
+Jinja2==3.1.6
+MarkupSafe==2.1.5
+typing-extensions==4.13.2
