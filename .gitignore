@@ -1,3 +1,9 @@
 *.pt
 *.zip
 *.pptx
+__pycache__/
+*.pyc
+.idea/
+*.pt
+*.zip
+*.pptx
